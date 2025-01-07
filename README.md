@@ -14,10 +14,9 @@
 
 ## كيف تستخدمها؟ 🚀
 
-1. شغل الأداة:
-   '''
-   git clone https://github.com/Saufb/Password-Generator-V2.git'''
+   ''
+   git clone https://github.com/Saufb/Password-Generator-V2.git''
 
-   '''cd Password-Generator-V2'''
+   ''cd Password-Generator-V2''
 
-   python3 main.py
+   ''python3 main.py
