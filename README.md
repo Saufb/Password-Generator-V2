@@ -12,11 +12,13 @@
 
 ---
 
-## كيف تستخدمها؟ 🚀
+التثبيت 🛠️
 
-   ''
-   git clone https://github.com/Saufb/Password-Generator-V2.git''
+---
 
-   ''cd Password-Generator-V2''
+   ``
+   git clone https://github.com/Saufb/Password-Generator-V2.git``
 
-   ''python3 main.py
+   ``cd Password-Generator-V2`` 
+
+   ``python3 main.py``
